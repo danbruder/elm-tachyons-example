@@ -1,3 +1,3 @@
 # Elm Tachyons Example
 
-![screenshot](https://github.com/danbruder/elm-tachyons-example/master/raw/screenshot.jpg)
+![screenshot](https://raw.githubusercontent.com/danbruder/elm-tachyons-example/master/screenshot.jpg)
