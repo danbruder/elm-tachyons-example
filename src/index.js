@@ -1,5 +1,6 @@
+import 'tachyons/css/tachyons.min.css';
 import './main.css';
-import { Main } from './Main.elm';
+import {Main} from './Main.elm';
 import registerServiceWorker from './registerServiceWorker';
 
 Main.embed(document.getElementById('root'));
